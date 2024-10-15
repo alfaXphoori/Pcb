@@ -1,4 +1,4 @@
-## Exam (50 point)
+## Exam (40 point)
 #### 1. Create Schematic File
 ![671 sch](https://github.com/user-attachments/assets/ef1e2121-a174-4d72-8285-8be5017901bc)
 - Bom list
