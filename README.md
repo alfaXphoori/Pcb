@@ -1,10 +1,10 @@
 ## Exam (40 point)
-#### 1. Create Schematic File
+#### 1. Create Schematic File ( 15 Point)
 ![671 sch](https://github.com/user-attachments/assets/ef1e2121-a174-4d72-8285-8be5017901bc)
 - Bom list
 ![671 Sch-1](https://github.com/user-attachments/assets/02278512-e707-4dfc-9059-de8314a5895c)
 
-#### 2. Create Pcb Board
+#### 2. Create Pcb Board ( 15 Point)
 - Board size > 2300 x 1900 mils 
 ![671 pcb-3](https://github.com/user-attachments/assets/6e470f0b-558f-4e15-9afd-58d05c858b11)
 - Board config
@@ -13,7 +13,7 @@
 - 3D Board
 ![671 3D](https://github.com/user-attachments/assets/45f87ede-42c6-41c2-806a-01b6b3dc48f6)
 
-#### 3. Summit file 
+#### 3. Summit file ( 10 Point)
 - zip 4 file and create name.zip : example phoori.zip
     - 3d Picture.png
     - .kicad_sch
